@@ -1,8 +1,2 @@
-# React Fitness Application
-
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
-
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+# Perfect React Fitness APP For Your Gym 
+# With the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more, Golds Gym is the best React Fitness App t
